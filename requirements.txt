@@ -1,0 +1,8 @@
+Flask
+gunicorn
+notebook
+ipywidgets
+requests
+jupyter_client
+ipykernel
+ipython
